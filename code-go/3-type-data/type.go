@@ -3,5 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World!")
+
+	//int8, int16, int32, int64
+
+	var num int16 = 1000
+	fmt.Println(num)
+
 }
